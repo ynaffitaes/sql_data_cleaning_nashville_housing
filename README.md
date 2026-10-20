@@ -1,4 +1,4 @@
-# Nashville Housing Data Cleaning with PostgreSQL
+# Nashville Housing Data Cleaning with SQL
 
 ## Project Overview
 
